@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ShoZy/static/css/main.75330969.css",
+    "main.js": "/ShoZy/static/js/main.ab477ded.js",
+    "static/media/fa-solid-900.ttf": "/ShoZy/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/file.png": "/ShoZy/static/media/file.e3b9713a31fde62472a8.png",
+    "static/media/main1.png": "/ShoZy/static/media/main1.985b4a72ff26f184656b.png",
+    "static/media/4.png": "/ShoZy/static/media/4.ac11e5505d8367337859.png",
+    "static/media/shoe5.png": "/ShoZy/static/media/shoe5.29c3a4ded25019ca02cd.png",
+    "static/media/shoe6.png": "/ShoZy/static/media/shoe6.72eaa334df2607c760b2.png",
+    "static/media/main.jpg": "/ShoZy/static/media/main.7dad038a6fd0001a40a3.jpg",
+    "static/media/fa-brands-400.ttf": "/ShoZy/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/shoe3.png": "/ShoZy/static/media/shoe3.713582aae16fb272d44d.png",
+    "static/media/fa-solid-900.woff2": "/ShoZy/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/shoe14.png": "/ShoZy/static/media/shoe14.46b8ac75818a29f3bb92.png",
+    "static/media/fa-brands-400.woff2": "/ShoZy/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/shoe8.png": "/ShoZy/static/media/shoe8.63fdd321364a0faa01a4.png",
+    "static/media/shoe10.png": "/ShoZy/static/media/shoe10.52086dae21dcb81112f7.png",
+    "static/media/shoe4.png": "/ShoZy/static/media/shoe4.1be973f527b04319f941.png",
+    "static/media/fa-regular-400.ttf": "/ShoZy/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/shoe12.png": "/ShoZy/static/media/shoe12.8cd864888e3d38158e10.png",
+    "static/media/shoe15.png": "/ShoZy/static/media/shoe15.edbfe2d85c072a66400b.png",
+    "static/media/shoe13.png": "/ShoZy/static/media/shoe13.89bd99786382e1de0ca8.png",
+    "static/media/shoe9.png": "/ShoZy/static/media/shoe9.f6bcaf5b1e0ff23233be.png",
+    "static/media/shoe11.png": "/ShoZy/static/media/shoe11.54255463235adae84275.png",
+    "static/media/fa-regular-400.woff2": "/ShoZy/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/shoe7.png": "/ShoZy/static/media/shoe7.6b8855fc39ad860f9731.png",
+    "static/media/mainone.jpeg": "/ShoZy/static/media/mainone.64d1297e48fb8ff4b432.jpeg",
+    "static/media/fa-v4compatibility.ttf": "/ShoZy/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ShoZy/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/ShoZy/index.html",
+    "main.75330969.css.map": "/ShoZy/static/css/main.75330969.css.map",
+    "main.ab477ded.js.map": "/ShoZy/static/js/main.ab477ded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75330969.css",
+    "static/js/main.ab477ded.js"
+  ]
+}

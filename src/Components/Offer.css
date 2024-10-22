@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20&family=Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Jersey+20&family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&family=Trade+Winds&display=swap');
+.offer-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #0b0909;
+ color: aliceblue;
+  }
+  
+  .offer-content {
+    max-width: 500px;
+  }
+  
+  .offer-heading {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-family: "Sansita", sans-serif;
+    color: #f7f2f2;
+  }
+  
+  .offer-description {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: aliceblue;
+  }
+  
+  .offer-item {
+    margin-bottom: 15px;
+  }
+  
+  .offer-details {
+    display: flex;
+    align-items: center;
+  }
+  
+  .offer-price {
+    font-size: 1.5rem;
+    margin-right: 10px;
+  }
+  
+  .offer-rating .fa {
+    color: #f39c12; 
+  }
+  
+  .offer-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .offer-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .offer-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  

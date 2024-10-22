@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Jersey+20&family=Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Jersey+20&family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&family=Trade+Winds&display=swap');
+.shoe-collection {
+    padding: 50px 20px;
+    text-align: center;
+    background: linear-gradient(to right, #4b6cb7, #182848); /* Gradient background */
+  }
+  
+  .heading{
+    font-family: "Akronim", system-ui;
+    font-size: xx-large;
+  }
+  span{
+    color: red;
+  }
+  .collection-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .collection-box {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-family: "Sansita", sans-serif;
+    margin: 10px;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .collection-box img {
+    max-width: 100%;
+    height:100px;
+  }
+  
+  .price {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .add-to-cart {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #0056b3;
+  }
+  .stars {
+    color: gold; /* Star color */
+    margin: 10px 0;
+  }
+  
+  .fa-star, .fa-star-o {
+    margin: 0 2px; /* Spacing between stars */
+  }
+  .buy-now {
+    background-color: #28a745; /* Green */
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .buy-now:hover {
+    background-color: #218838; /* Darker green */
+  }
+  
+  
